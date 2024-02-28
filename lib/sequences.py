@@ -11,6 +11,4 @@ def print_fibonacci(length):
 
     print(fibonacci_sequence[:length])
 
-# Run pytest -x to check your work
-
 pass
